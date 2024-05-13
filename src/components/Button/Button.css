@@ -1,0 +1,27 @@
+.container-button {
+  height: 83px;
+  display: flex;
+  width: 6.5vw;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 38px;
+  background-color: #1b1b32;
+  color: white;
+  border-radius: 0.5rem;
+  margin: 4px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.container-button:hover {
+  background-color: #222237;
+}
+
+.operador {
+  background-color: #004743;
+}
+
+.operador:hover {
+  background-color: #055450;
+}
